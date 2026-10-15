@@ -1,2 +1,10 @@
+node_modules/
+*.tmp
+qa-out/
 .DS_Store
-.claude/settings.local.json
+source-photos/
+dist/
+assets/*.glb
+renders/
+__pycache__/
+venv-bpy/
